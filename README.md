@@ -1,7 +1,7 @@
 # 未名树洞
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/pkuhollow/pkuhollow/main/logo.png" alt="logo" class="center" width="200" height="200" ><br>
+<img src="https://raw.githubusercontent.com/pkuhollow/pkuhollow/main/logo.png" alt="logo" class="center" width="100" height="100" ><br>
 <a href="https://pkuhollow.com">https://pkuhollow.com</a>
 </p> 
 
